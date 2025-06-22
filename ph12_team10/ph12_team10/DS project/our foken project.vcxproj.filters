@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Armys">
+      <UniqueIdentifier>{f9856ef1-0434-4587-9ed9-28da41c1c495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Armys\earthArmy">
+      <UniqueIdentifier>{6301cfee-a623-41df-9172-4cff21a4d023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Armys\alienArmy">
+      <UniqueIdentifier>{09e95ec9-74be-4a5b-a55a-b2c6c259c3c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Armys\earthArmy\earthUnits">
+      <UniqueIdentifier>{29acea63-5341-4eea-b774-e1352cf9e119}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Armys\alienArmy\alienUnits">
+      <UniqueIdentifier>{e59ab14b-c80c-46f3-bb08-3bf5314d285c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{10ff37c0-5633-4bbe-8670-20fd3b1fada8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Armys\Unit">
+      <UniqueIdentifier>{528d1c82-9ac0-4eb8-b152-c9efe6fb2beb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Health">
+      <UniqueIdentifier>{3c811744-2714-496b-b821-2dae60bbdb69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator">
+      <UniqueIdentifier>{6ca5f325-58bc-43f9-8373-e5fd0a881c3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers">
+      <UniqueIdentifier>{3a764b98-c574-4464-b46d-1762793c55d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\stack">
+      <UniqueIdentifier>{b8d34640-4cef-48db-b243-9aa59d43588b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\priority queue">
+      <UniqueIdentifier>{99dae14e-5344-4846-8902-91621d403067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\Node">
+      <UniqueIdentifier>{49942a70-210b-4bba-922b-ad70d366a667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\unused cpp files">
+      <UniqueIdentifier>{ea8b76b0-c241-4a81-b67b-33d888120540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\queue">
+      <UniqueIdentifier>{59224254-8db3-4029-b2de-8052e796e0bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Datastructers\deque">
+      <UniqueIdentifier>{37a7c5a3-0ffc-429c-a8c5-95bf312bb6fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alienArmy.cpp">
+      <Filter>Armys\alienArmy</Filter>
+    </ClCompile>
+    <ClCompile Include="earthArmy.cpp">
+      <Filter>Armys\earthArmy</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Gunnery.cpp">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="alienSoldier.cpp">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Drone.cpp">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="earthSoldier.cpp">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="unit.cpp">
+      <Filter>Armys\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="Health.cpp">
+      <Filter>Health</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayStack.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedQueue.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+    <ClCompile Include="priNode.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+    <ClCompile Include="priQueue.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+    <ClCompile Include="doubleEndedQueue.cpp">
+      <Filter>Datastructers\unused cpp files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alienArmy.h">
+      <Filter>Armys\alienArmy</Filter>
+    </ClInclude>
+    <ClInclude Include="earthArmy.h">
+      <Filter>Armys\earthArmy</Filter>
+    </ClInclude>
+    <ClInclude Include="earthSoldier.h">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Gunnery.h">
+      <Filter>Armys\earthArmy\earthUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="alienSoldier.h">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Drone.h">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Armys\alienArmy\alienUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="unit.h">
+      <Filter>Armys\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="Health.h">
+      <Filter>Health</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayStack.h">
+      <Filter>Datastructers\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>Datastructers\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Datastructers\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="priNode.h">
+      <Filter>Datastructers\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="priQueue.h">
+      <Filter>Datastructers\priority queue</Filter>
+    </ClInclude>
+    <ClInclude Include="doubleEndedQueue.h">
+      <Filter>Datastructers\deque</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
