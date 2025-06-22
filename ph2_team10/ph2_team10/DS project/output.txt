@@ -1,0 +1,107 @@
+TD	ID	TJ	DF	Dd	DP
+5	1	2	3	0	3
+5	2	2	3	0	3
+5	3	2	3	0	3
+5	4	2	3	0	3
+5	5	2	3	0	3
+5	6	2	3	0	3
+6	8	6	0	0	0
+6	13	6	0	0	0
+7	10	6	HL	HL	1
+11	16	11	0	0	0
+13	2001	5	0	8	8
+13	22	13	0	0	0
+13	23	13	0	0	0
+13	28	13	0	0	0
+13	25	13	0	0	0
+13	24	13	0	0	0
+14	9	6	7	1	8
+15	21	11	2	2	4
+15	14	6	7	2	9
+15	7	2	12	1	13
+15	27	13	0	2	2
+15	11	6	8	1	9
+20	17	11	0	9	9
+20	18	11	0	9	9
+20	19	11	0	9	9
+20	26	13	0	7	7
+20	30	20	HL	HL	0
+20	29	20	0	0	0
+20	31	20	0	0	0
+20	34	20	0	0	0
+21	35	20	0	1	1
+21	33	20	0	1	1
+21	36	21	0	0	0
+22	39	21	0	1	1
+22	40	21	0	1	1
+22	42	21	0	1	1
+22	49	22	0	0	0
+22	47	22	0	0	0
+22	37	21	0	1	1
+22	38	21	0	1	1
+22	43	22	0	0	0
+23	48	22	0	1	1
+27	52	27	0	0	0
+27	50	27	0	0	0
+27	56	27	0	0	0
+27	54	27	0	0	0
+31	55	27	0	4	4
+31	45	22	0	9	9
+31	20	11	0	20	20
+31	32	20	0	11	11
+31	58	31	HL	HL	0
+31	62	31	0	0	0
+31	61	31	0	0	0
+33	2000	5	0	28	28
+33	57	31	0	2	2
+33	59	31	0	2	2
+33	63	31	0	2	2
+33	44	22	0	11	11
+33	67	33	HL	HL	0
+33	64	33	0	0	0
+33	65	33	0	0	0
+33	70	33	0	0	0
+33	66	33	0	0	0
+33	68	33	0	0	0
+33	69	33	0	0	0
+35	2009	9	0	26	26
+35	71	35	0	0	0
+35	72	35	0	0	0
+35	76	35	0	0	0
+35	75	35	0	0	0
+35	74	35	0	0	0
+35	77	35	0	0	0
+35	73	35	0	0	0
+39	78	39	0	0	0
+39	79	39	0	0	0
+39	81	39	0	0	0
+40	84	39	0	1	1
+Battle result : lose
+
+//Earth Army : 
+ES Alive units : 0
+ET Alive units : 0
+EG Alive units : 0
+percentage of destruction ES to total ES : 100%
+percentage of destruction ET to total ET : 100%
+percentage of destruction EG to total EG : 100%
+Healed Units : 1%
+Avg of DF : 0
+Avg of Dd : 1
+Avg of Db : 2
+Df / Db : 32%
+Dd / Db : 67%
+
+
+//Alien Army : 
+AS Alive units : 63
+AM Alive units : 7
+AD Alive units : 4
+percentage of destruction AS to total AS : 0%
+percentage of destruction AM to total AM : 22%
+percentage of destruction AM to total AM : 20%
+Avg of DF : 0
+Avg of Dd : 20
+Avg of Db : 20
+Df / Db : 0%
+Dd / Db : 100%
